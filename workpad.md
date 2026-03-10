@@ -9,3 +9,4 @@
 - 2026-03-10: Revalidated — PR still open/mergeable; still no Linear credentials. No further actions possible until access is provided.
 - 2026-03-10: Searched repo for Linear config/credentials (`rg -i linear`); none found beyond workpad notes.
 - 2026-03-10: Final check this session — no Linear credentials surfaced; cannot close issue in Linear without token.
+- 2026-03-10: Another check — env still lacks Linear credentials; PR #1 remains open/mergeable (head `aut-12`). Blocked solely on missing token.
