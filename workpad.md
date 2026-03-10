@@ -9,3 +9,4 @@
 - 2026-03-10: Re-verified main matches origin; PR #2 remains merged; blocker persists (no Linear access to close issue).
 - 2026-03-10: New work: created branch `aut-12-hello-script`, adjusted greeting text (removed period) and README expected output, ran `python3 hello.py` (prints "Hello from Symphony"), pushed branch and opened PR #3 https://github.com/wkumagai/symphony-test-target/pull/3 (state OPEN, mergeable, not draft). Linear still not accessible to close issue.
 - 2026-03-10: Merged PR #3 with merge commit; branch aut-12-hello-script deleted; main fast-forwarded. Work remains blocked only by lack of Linear access to move/close ticket.
+- 2026-03-10: Closed superseded PR #1 (aut-12) and deleted its branch to keep repo clean; no code changes needed. Main still current with merged PR #3; Linear access still missing to close issue.
