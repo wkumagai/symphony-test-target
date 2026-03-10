@@ -7,3 +7,4 @@
 - 2026-03-10: Rechecked PR #1 via GitHub API — state `open`, mergeable `True`, head `aut-12`; still no Linear credentials in env, so issue remains blocked for status change.
 - 2026-03-10: No new credentials available; unable to transition Linear issue—awaiting access.
 - 2026-03-10: Revalidated — PR still open/mergeable; still no Linear credentials. No further actions possible until access is provided.
+- 2026-03-10: Searched repo for Linear config/credentials (`rg -i linear`); none found beyond workpad notes.
