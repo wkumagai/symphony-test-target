@@ -7,7 +7,13 @@ Test repository for Symphony autonomous agent.
 Run the greeting script from the repo root:
 
 ```bash
-python hello.py
+python3 hello.py
+```
+
+Or execute it directly (shebang included):
+
+```bash
+./hello.py
 ```
 
 Expected output:
