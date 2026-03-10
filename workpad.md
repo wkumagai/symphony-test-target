@@ -94,3 +94,4 @@
 - 2026-03-10: Continuation run — branch `aut-12` at head 2cc44a7 (pushed to origin); PR #1 open/mergeable; env still lacks Linear credentials, so cannot move Linear issue state.
 - 2026-03-10: Continuation run — branch `aut-12` at head 01fcfe6 (pushed); PR #1 open with mergeable_state `clean`; env still lacks Linear credentials, so cannot transition Linear issue.
 - 2026-03-10: Continuation run — branch `aut-12` at head 71c10bd (pushed); PR #1 open/mergeable_state `clean`; environment still lacks Linear credentials (`LINEAR_*`), so cannot update Linear issue status.
+- 2026-03-10: Continuation run — branch `aut-12` at head 90e89ae (pushed); PR #1 open/mergeable_state `clean`; env still lacks Linear credentials, so issue transition remains blocked.
