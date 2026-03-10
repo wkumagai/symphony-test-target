@@ -15,3 +15,4 @@
 - 2026-03-10: Additional follow-up: repository remains clean and aligned with origin; no open PRs. Still blocked by lack of Linear access to transition/close AUT-12.
 - 2026-03-10: Another verification: `main` clean and synced with origin; no open PRs. Work complete; awaiting Linear access to close AUT-12.
 - 2026-03-10: Checked environment for Linear credentials (env | grep -i LINEAR); none present. Still blocked on closing AUT-12 in Linear.
+- 2026-03-10: Routine check: `main` still in sync with origin; no open PRs; Linear credentials still absent. Blocked on Linear closure.
