@@ -113,3 +113,5 @@
 - 2026-03-11: Continuation run — branch `aut-12` at head 6b309f2 (pushed); GitHub core remaining 0 (reset 06:08:15 JST); env still lacks Linear credentials.
 - 2026-03-11: Continuation run — branch `aut-12` at head 9db8977 (pushed); GitHub core remaining 0 (reset 06:08:15 JST); env still lacks Linear credentials.
 - 2026-03-11: Continuation run — branch `aut-12` at head a8a6092 (pushed); GitHub core remaining 0 (reset 06:08:15 JST); env still lacks Linear credentials.
+
+- 2026-03-10: Added trailing period to greeting output to match spec; README now shows sample output; pushed head 3e7aedd to `aut-12`; PR #1 open/mergeable (`clean`); still no Linear credentials available to transition issue state.
