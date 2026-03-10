@@ -5,3 +5,4 @@
 - 2026-03-10: `gh pr view 2` shows state OPEN, mergeable, not draft, no required checks; still awaiting review/merge.
 - 2026-03-10: Merged PR #2 via `gh pr merge 2 --merge --delete-branch`; branch `aut-12-hello` closed; main updated with greeting script and README changes.
 - 2026-03-10: Post-merge review: main is in sync with origin; no further actions possible without Linear access to close the issue.
+- 2026-03-10: Still blocked from closing Linear issue due to missing Linear credentials; repo and PR are complete and merged.
