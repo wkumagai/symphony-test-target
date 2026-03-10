@@ -6,3 +6,4 @@
 - 2026-03-10: Checked environment for Linear credentials (`printenv | grep -i linear`); none present, so issue state cannot be updated programmatically.
 - 2026-03-10: Rechecked PR #1 via GitHub API — state `open`, mergeable `True`, head `aut-12`; still no Linear credentials in env, so issue remains blocked for status change.
 - 2026-03-10: No new credentials available; unable to transition Linear issue—awaiting access.
+- 2026-03-10: Revalidated — PR still open/mergeable; still no Linear credentials. No further actions possible until access is provided.
