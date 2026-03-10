@@ -63,4 +63,5 @@
 - 2026-03-10: Continuation run — branch `aut-12` at head b7f34a3 (pushed); PR #1 open/mergeable (`clean`); env still lacks Linear credentials, so issue transition remains blocked.
 - 2026-03-10: Continuation run — branch `aut-12` at head b126bdb (pushed); PR #1 open/mergeable (`clean`); env still lacks Linear credentials, so issue transition remains blocked.
 - 2026-03-10: Continuation run — branch `aut-12` at head 4401b2a (pushed); GitHub API rate-limited so PR mergeability not refreshed; env still lacks Linear credentials, so issue transition remains blocked.
+- 2026-03-10: Continuation run — branch `aut-12` at head 3f8e583 (pushed); GitHub API still rate-limited (core remaining 0), so PR mergeability not refreshed; env still lacks Linear credentials, so issue transition remains blocked.
 - 2026-03-10: Continuation run — branch `aut-12` at head 2cc44a7 (pushed to origin); PR #1 open/mergeable; env still lacks Linear credentials, so cannot move Linear issue state.
