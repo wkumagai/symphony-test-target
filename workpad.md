@@ -2,6 +2,7 @@
 
 ## AUT-12
 - Status: All code/README changes merged into branch `aut-12` and PR opened; still blocked on moving the Linear issue because no Linear API token or credentials are available in this workspace.
+- 2026-03-10: Continuation run — branch `aut-12` head 1d042cf (pushed and matches PR #1); merge state CLEAN; environment still lacks LINEAR_* credentials (`printenv | grep -i linear` empty), so cannot transition the Linear issue. Code and README already satisfy requirements.
 - PR open: https://github.com/wkumagai/symphony-test-target/pull/1 (rebasing not needed; branch is 2 commits ahead of `main` as of 2026-03-10)
 - 2026-03-10: Continuation run — branch `aut-12` at head fe368e9 (pushed); PR #1 state `open`, mergeable_state `clean`; still no Linear credentials present, so cannot transition the Linear issue.
 - 2026-03-10: Continuation run — branch `aut-12` at head fe368e9 (unchanged); rechecked PR #1 (state `open`, mergeable_state `clean`) and confirmed environment still lacks Linear credentials (`printenv | grep -i linear` empty), so issue transition remains blocked.
