@@ -13,5 +13,5 @@ python hello.py
 Expected output:
 
 ```
-Hello from Symphony.
+Hello from Symphony
 ```

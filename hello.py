@@ -3,7 +3,7 @@
 
 
 def main() -> None:
-    print("Hello from Symphony.")
+    print("Hello from Symphony")
 
 
 if __name__ == "__main__":
