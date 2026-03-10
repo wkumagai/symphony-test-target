@@ -9,3 +9,9 @@ Run the greeting script from the repo root:
 ```bash
 python hello.py
 ```
+
+Expected output:
+
+```
+Hello from Symphony.
+```
