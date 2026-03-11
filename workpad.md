@@ -19,3 +19,7 @@
 - 2026-03-10: Removed stale remote-tracking branch `origin/aut-12` (remote already deleted); repo remains clean and `main` matches origin; still blocked by missing Linear access.
 - 2026-03-10: Confirmed repo remains clean and `main` matches origin; no open PRs. Linear access still unavailable to close AUT-12.
 - 2026-03-10: Yet another verification: repo clean, `main` == origin, no open PRs. Still blocked solely by missing Linear credentials to close AUT-12.
+
+## AUT-13 Workpad
+
+- 2026-03-11: Created branch `feature/AUT-13` from `main`, added `CODEX.md` documenting Codex overview/capabilities/limitations, committed and pushed. Opened PR #5 https://github.com/wkumagai/symphony-test-target/pull/5. No blockers; awaiting review/merge.
