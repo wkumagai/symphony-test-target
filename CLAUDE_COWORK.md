@@ -16,6 +16,12 @@ Claude Cowork is Anthropic's agentic workspace inside Claude Desktop. It uses th
 - Produces polished deliverables (docs, spreadsheets, slide decks) rather than just draft text (Claude docs).
 - Uses connector/skill/plugin system shared with other Claude products for data access and reusable workflows (Claude docs).
 
+## How it differs from Claude Code (use cases)
+- **Best for Cowork:** Non-technical workflows like research, doc creation, reporting, spreadsheet/slide generation, and browser automation across multiple SaaS tools—especially when you want scheduled runs or admin-governed connectors/plugins.
+- **Best for Claude Code:** Developer workflows inside a repo or IDE/CLI—editing files, running tests, refactors, code reviews, CI hooks, and shell-heavy tasks where tight Git integration and local toolchains matter.
+- **Collaboration pattern:** Start in Cowork to gather requirements, data, and stakeholder-ready outputs; hand off coding subtasks to Claude Code via repo instructions or to a dev who can run the CLI/extension.
+- **Access model:** Cowork runs inside Claude Desktop with scoped file access plus Chrome control; Claude Code runs as a terminal/IDE agent (with Remote Control/mobile web preview) that operates inside your dev environment.
+
 ## Recent feature drops
 - **Scheduled tasks (Feb 25, 2026):** create recurring or on-demand Cowork runs plus a consolidated “Customize” panel for skills/plugins/connectors (release notes).
 - **Plugin marketplace & admin controls (Feb 24, 2026):** org-level enablement for Team/Enterprise (release notes).
