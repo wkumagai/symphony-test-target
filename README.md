@@ -21,3 +21,7 @@ Expected output:
 ```
 Hello from Symphony
 ```
+
+## Docs
+
+- [Claude Cowork Guide](CLAUDE_COWORK.md)
