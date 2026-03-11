@@ -37,3 +37,4 @@
 - 2026-03-11: Checked PR #7 status — state OPEN, mergeable, head `aut-15-claude-code-usecase-diff` into `main`; awaiting review/merge. Still no Linear credentials to move the ticket.
 - 2026-03-11: Follow-up: PR #7 still OPEN and MERGEABLE; no further changes needed. Linear credentials still missing for ticket transition.
 - 2026-03-11: Another check: PR #7 remains OPEN, mergeable, not yet merged; nothing else to change. Still blocked from Linear actions.
+- 2026-03-11: Latest check: PR #7 still OPEN, mergeable, not merged. Awaiting review/merge; Linear access still unavailable.
