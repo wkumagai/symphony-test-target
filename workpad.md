@@ -23,3 +23,4 @@
 ## AUT-13 Workpad
 
 - 2026-03-11: Created branch `feature/AUT-13` from `main`, added `CODEX.md` documenting Codex overview/capabilities/limitations, committed and pushed. Opened PR #5 https://github.com/wkumagai/symphony-test-target/pull/5. No blockers; awaiting review/merge.
+- 2026-03-11: Checked PR #5 status with `gh pr view 5` — state OPEN, mergeable. Nothing else to do until review/merge; Linear access not available to transition ticket.
