@@ -19,12 +19,12 @@ Claude Cowork is Anthropic's agentic workspace inside Claude Desktop. It uses th
 ## Recent feature drops
 - **Scheduled tasks (Feb 25, 2026):** create recurring or on-demand Cowork runs plus a consolidated “Customize” panel for skills/plugins/connectors (release notes).
 - **Plugin marketplace & admin controls (Feb 24, 2026):** org-level enablement for Team/Enterprise (release notes).
-- **Agentic plug-ins (Jan 30, 2026):** TechCrunch reports enterprise-focused plug-ins that let teams encode workflows and data sources without heavy engineering.
+- **Agentic plug-ins (Jan 30, 2026):** Release notes add agentic plug-in support to Cowork for reusable, shareable workflows.
 
 ## Extensibility model
 - **Connectors (MCP):** link Cowork to SaaS/data sources.
 - **Skills:** reusable, parameterized instructions for repeatable workflows.
-- **Plugins:** packages of skills + connectors that can be shared or open sourced; Cowork ships with sample plug-ins and supports custom ones (TechCrunch + Claude docs).
+- **Plugins:** packages of skills + connectors that can be shared or open sourced; Cowork ships with sample plug-ins and supports custom ones (Claude docs + release notes).
 - **Monitoring:** admin view for usage and activity across the organization (Claude docs).
 
 ## Quick-start checklist for teams
@@ -43,5 +43,4 @@ Claude Cowork is Anthropic's agentic workspace inside Claude Desktop. It uses th
 - Claude Cowork overview and capabilities — [Claude docs](https://docs.anthropic.com/en/claude-desktop/claude-cowork)
 - Feature timeline and scheduled tasks — [Anthropic Release Notes](https://support.anthropic.com/en/articles/11665851-release-notes)
 - Max plan pricing and desktop downloads — [claude.com/pricing](https://claude.com/pricing)
-- Plug-in launch details — [TechCrunch](https://techcrunch.com/2026/01/30/anthropic-cowork-plugins/)
 - Windows desktop availability — [Claude Help Center](https://support.claude.com/en/articles/10463379-get-started-with-cowork)
