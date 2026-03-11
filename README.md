@@ -25,3 +25,4 @@ Hello from Symphony
 ## Docs
 
 - [Claude Cowork Guide](CLAUDE_COWORK.md)
+- [米国小売業界の次世代ネットワーク活用事例まとめ（AUT-16）](AUT-16-us-retail-next-gen-networks.md)
