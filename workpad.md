@@ -38,3 +38,8 @@
 - 2026-03-11: Follow-up: PR #7 still OPEN and MERGEABLE; no further changes needed. Linear credentials still missing for ticket transition.
 - 2026-03-11: Another check: PR #7 remains OPEN, mergeable, not yet merged; nothing else to change. Still blocked from Linear actions.
 - 2026-03-11: Latest check: PR #7 still OPEN, mergeable, not merged. Awaiting review/merge; Linear access still unavailable.
+
+## AUT-16 Workpad
+
+- 2026-03-11: Created branch `feature/AUT-16` from `main` to develop deep-dive on U.S. retail next-gen network use cases.
+- 2026-03-11: Researched 5G SA/slicing, MEC＋GPU、店舗エッジ導入事例（NRF 2026、Verizon+NVIDIA、Scale Computing等）を調査し、まとめを `AUT-16-us-retail-next-gen-networks.md` に作成、READMEへリンク追加。
