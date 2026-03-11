@@ -43,3 +43,4 @@
 
 - 2026-03-11: Created branch `feature/AUT-16` from `main` to develop deep-dive on U.S. retail next-gen network use cases.
 - 2026-03-11: Researched 5G SA/slicing, MEC＋GPU、店舗エッジ導入事例（NRF 2026、Verizon+NVIDIA、Scale Computing等）を調査し、まとめを `AUT-16-us-retail-next-gen-networks.md` に作成、READMEへリンク追加。
+- 2026-03-11: 追加リサーチでAT&T RedCap全国提供、T-MobileのNRF 2026スライシング事例、Verizon×NVIDIAのPrivate 5G MEC、Scale Computingの量産導入、Retail Edge市場予測を一次情報で確認し、同レポートを全面更新。
