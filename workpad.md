@@ -34,3 +34,4 @@
 ## AUT-15 Workpad
 
 - 2026-03-11: Created branch `aut-15-claude-code-usecase-diff` from `main`, added "How it differs from Claude Code" use-case section to `CLAUDE_COWORK.md`, committed, pushed, and opened PR #7 https://github.com/wkumagai/symphony-test-target/pull/7. Work complete; lacking Linear access to transition/close the ticket.
+- 2026-03-11: Checked PR #7 status — state OPEN, mergeable, head `aut-15-claude-code-usecase-diff` into `main`; awaiting review/merge. Still no Linear credentials to move the ticket.
