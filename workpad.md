@@ -27,4 +27,5 @@
 
 ## AUT-14 Workpad
 
-- 2026-03-11: Created branch `feature/AUT-14` from `main`, wrote `CLAUDE_COWORK.md` guide with availability, capabilities, and rollout considerations; linked it from `README.md`. Ready for PR; still no Linear credentials to transition the issue.
+- 2026-03-11: Created branch `feature/AUT-14` from `main`, wrote `CLAUDE_COWORK.md` guide with availability, capabilities, and rollout considerations; linked it from `README.md`. Still no Linear credentials to transition the issue.
+- 2026-03-11: Opened PR #6 https://github.com/wkumagai/symphony-test-target/pull/6 from `feature/AUT-14`; work complete pending review/merge and Linear transition.
