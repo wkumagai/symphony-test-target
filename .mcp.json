@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lnar": {
+      "type": "http",
+      "url": "https://api.lnar.ai/mcp/"
+    }
+  }
+}
